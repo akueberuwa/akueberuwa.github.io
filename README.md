@@ -1,3 +1,7 @@
+theme: merlot
+title: Welcome to AKueberuwa's homepage!
+description: Project updates!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/akueberuwa/akueberuwa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
